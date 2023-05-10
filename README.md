@@ -3,7 +3,7 @@ This package make you YYYYMMDDhhmmss date format
 # Installation
 
 ```
-npm i
+npm i @kimjunseoo/yyyymmddhhmmss
 ```
 
 ---
