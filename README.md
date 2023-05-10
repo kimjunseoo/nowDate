@@ -8,7 +8,7 @@ npm i
 
 ---
 
-#Example
+# Example
 
 ```
 import { nowDate as yyyymmddhhmmss } from "@kimjunseoo/yyyymmddhhmmss";
