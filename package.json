@@ -1,6 +1,6 @@
 {
   "name": "@kimjunseoo/yyyymmddhhmmss",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "date format including YYYYMMDDhhmmss",
   "main": "main.js",
   "author": "kimjunseoo",
