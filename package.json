@@ -1,7 +1,7 @@
 {
-  "name": "@kimjunseoo/yyyymmddhdhmmss",
+  "name": "@kimjunseoo/yyyymmddhhmmss",
   "version": "0.1.0",
-  "description": "date format to YYYYMMDDhhmmss",
+  "description": "date format include YYYYMMDDhhmmss",
   "main": "main.js",
   "author": "kimjunseoo",
   "license": "ISC"
