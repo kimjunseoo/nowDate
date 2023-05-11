@@ -1,5 +1,5 @@
 {
-  "name": "@kimjunseoo/dateformat",
+  "name": "@kimjunseoo/yyyymmddhdhmmss",
   "version": "0.1.0",
   "description": "date format to YYYYMMDDhhmmss",
   "main": "main.js",
