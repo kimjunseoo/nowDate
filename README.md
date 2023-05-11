@@ -13,7 +13,7 @@ npm i @kimjunseoo/yyyymmddhhmmss
 ```
 import { YYYYMMDDhhmmss } from "@kimjunseoo/yyyymmddhhmmss";
 
-console.log(yyyymmddhhmmss());
+console.log(YYYYMMDDhhmmss());
 ```
 
 return
@@ -31,7 +31,7 @@ return
 ```
 import { YYYYMMDDhhmmss } from "@kimjunseoo/yyyymmddhhmmss";
 
-console.log(yyyymmddhhmmss());
+console.log(YYYYMMDDhhmmss());
 ```
 
 return
