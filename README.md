@@ -26,7 +26,7 @@ return
 
 # Type
 
-- #### 1. YYYYMMDDhhmmss
+#### 1. YYYYMMDDhhmmss
 
 ```
 import { YYYYMMDDhhmmss } from "@kimjunseoo/yyyymmddhhmmss";
@@ -40,7 +40,7 @@ return
 20230511002821
 ```
 
-- #### 2. YYYYMMDD
+#### 2. YYYYMMDD
 
 ```
 import { YYYYMMDD } from "@kimjunseoo/yyyymmddhhmmss";
@@ -54,7 +54,7 @@ return
 20230511
 ```
 
-- #### 3. hhmmss
+#### 3. hhmmss
 
 ```
 import { hhmmss } from "@kimjunseoo/yyyymmddhhmmss";
@@ -68,7 +68,7 @@ return
 154111
 ```
 
-- #### 4. YYYY
+#### 4. YYYY
 
 ```
 import { YYYY } from "@kimjunseoo/yyyymmddhhmmss";
@@ -82,7 +82,7 @@ return
 2023
 ```
 
-- #### 5. MM
+#### 5. MM
 
 ```
 import { MM } from "@kimjunseoo/yyyymmddhhmmss";
@@ -96,7 +96,7 @@ return
 05
 ```
 
-- #### 6. DD
+#### 6. DD
 
 ```
 import { DD } from "@kimjunseoo/yyyymmddhhmmss";
@@ -110,7 +110,7 @@ return
 11
 ```
 
-- #### 7. hh
+#### 7. hh
 
 ```
 import { hh } from "@kimjunseoo/yyyymmddhhmmss";
@@ -124,7 +124,7 @@ return
 15
 ```
 
-- #### 8. mm
+#### 8. mm
 
 ```
 import { mm } from "@kimjunseoo/yyyymmddhhmmss";
@@ -138,7 +138,7 @@ return
 44
 ```
 
-- #### 9. ss
+#### 9. ss
 
 ```
 import { ss } from "@kimjunseoo/yyyymmddhhmmss";
